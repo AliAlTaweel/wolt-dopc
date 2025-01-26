@@ -51,12 +51,13 @@ Ensure the following are installed on your system:
        - Cart Value
        - Small Order Surcharge
        - Delivery Distance
-       - Total Price
-Price Breakdown Details
-Cart Value: The total value of the items in the cart (entered in euros).
-Small Order Surcharge: Applied if the cart value is below the minimum required for free delivery.
-Delivery Distance: Calculated as the straight-line distance between the user and the venue.
-Total Price: The sum of the cart value, small order surcharge, and delivery fee.
+       - Total Price.
+       
+## Price Breakdown Details
+- Cart Value: The total value of the items in the cart (entered in euros).
+- Small Order Surcharge: Applied if the cart value is below the minimum required for free delivery.
+- Delivery Distance: Calculated as the straight-line distance between the user and the venue.
+- Total Price: The sum of the cart value, small order surcharge, and delivery fee.
 The Home Assignment API is used to dynamically calculate delivery fees and set a maximum delivery range of 2000 meters.
 
 Testing
