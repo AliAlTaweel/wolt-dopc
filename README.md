@@ -48,10 +48,10 @@ Ensure the following are installed on your system:
    * Location: Either manually input latitude and longitude or click the Get Location button to allow the browser to retrieve your current location.
      * Click "Calculate Delivery Price".
      * View the Price Breakdown, which includes:
-     * - Cart Value
-           - Small Order Surcharge
-           - Delivery Distance
-           - Total Price
+       - Cart Value
+       - Small Order Surcharge
+       - Delivery Distance
+       - Total Price
 Price Breakdown Details
 Cart Value: The total value of the items in the cart (entered in euros).
 Small Order Surcharge: Applied if the cart value is below the minimum required for free delivery.
