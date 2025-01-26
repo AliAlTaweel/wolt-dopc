@@ -29,33 +29,16 @@ The Delivery Order Price Calculator UI (DOPC) allows users to calculate delivery
      - Delivery Distance
      - Total Price
   - Max Distance Handling: Limits calculations to a maximum delivery range of 2000 meters.
-Getting Started
-Prerequisites
-Ensure the following are installed on your system:
 
-Node.js >= 16.x
-npm (comes with Node.js)
-Installation
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/wolt-dopc.git  
-Navigate to the project directory:
-bash
-Copy
-Edit
-cd wolt-dopc  
-Install dependencies:
-bash
-Copy
-Edit
-npm install  
-Start the development server:
-bash
-Copy
-Edit
-npm run dev  
+## Getting Started
+- Prerequisites
+Ensure the following are installed on your system:
+   Node.js >= 16.x
+   npm (comes with Node.js)
+
+- Installation
+    npm install  
+    npm run dev  
 Usage
 Open the application in your browser (default: http://localhost:5173/).
 Enter the following:
