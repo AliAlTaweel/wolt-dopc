@@ -15,12 +15,13 @@ This project is part of the Wolt 2025 Frontend Engineering Internship assignment
 ## About the Project
 The Delivery Order Price Calculator UI (DOPC) allows users to calculate delivery prices based on:
 
-Cart Value
-User Location (via latitude and longitude or by using the browser's location API)
-Dynamic data retrieved from the Home Assignment API (e.g., venue details, distance ranges).
-Features
-Dynamic Delivery Calculation: Calculates delivery fees and additional surcharges based on distance and cart value.
-User-Friendly Input Options: Users can enter their location manually or allow the browser to retrieve it automatically.
+- Cart Value
+- User Location (via latitude and longitude or by using the browser's location API)
+- Dynamic data retrieved from the Home Assignment API (e.g., venue details, distance ranges).
+
+## Features
+ - Dynamic Delivery Calculation: Calculates delivery fees and additional surcharges based on distance and cart value.
+ - User-Friendly Input Options: Users can enter their location manually or allow the browser to retrieve it automatically.
 Responsive UI: Built with React and TypeScript for a seamless user experience.
 Comprehensive Price Breakdown: Displays detailed pricing information, including:
 Cart Value
