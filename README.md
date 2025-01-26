@@ -7,9 +7,9 @@ This project is part of the Wolt 2025 Frontend Engineering Internship assignment
  * About the Project
  * Features
  * Getting Started
- - Prerequisites
- - Installation
- - Usage
+   - Prerequisites
+   - Installation
+   - Usage
  * Testing
  
 ## About the Project
