@@ -66,7 +66,7 @@ Ensure the following are installed on your system:
 
 
 ## Contact
-For any questions or feedback, feel free to reach out:
+For any questions or feedback :
 
 Email: engalihaitham@gmail.com
 
