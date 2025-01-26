@@ -60,21 +60,13 @@ Ensure the following are installed on your system:
 - Total Price: The sum of the cart value, small order surcharge, and delivery fee.
  * The Home Assignment API is used to dynamically calculate delivery fees and set a maximum delivery range of 2000 meters.
 
-Testing
-Unit tests ensure the accuracy of delivery fee calculations and distance computations. To run tests:
+## Testing
+# Unit tests ensure the accuracy of delivery fee calculations and distance computations. To run tests:
+ npm test  
 
-bash
-Copy
-Edit
-npm test  
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-License
-This project is licensed under the MIT License.
 
 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: [your.email@example.com]
-GitHub: https://github.com/your-username
+Email: engalihaitham@gmail.com
+
