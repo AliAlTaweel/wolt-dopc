@@ -61,7 +61,7 @@ Ensure the following are installed on your system:
  * The Home Assignment API is used to dynamically calculate delivery fees and set a maximum delivery range of 2000 meters.
 
 ## Testing
-# Unit tests ensure the accuracy of delivery fee calculations and distance computations. To run tests:
+ Unit tests ensure the accuracy of delivery fee calculations and distance computations. To run tests:
  npm test  
 
 
