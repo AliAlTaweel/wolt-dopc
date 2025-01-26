@@ -24,10 +24,10 @@ The Delivery Order Price Calculator UI (DOPC) allows users to calculate delivery
  - User-Friendly Input Options: Users can enter their location manually or allow the browser to retrieve it automatically.
  - Responsive UI: Built with React and TypeScript for a seamless user experience.
  - Comprehensive Price Breakdown: Displays detailed pricing information, including:
-     - Cart Value
-     - Small Order Surcharge
-     - Delivery Distance
-     - Total Price
+       - Cart Value
+       - Small Order Surcharge
+       - Delivery Distance
+       - Total Price
   - Max Distance Handling: Limits calculations to a maximum delivery range of 2000 meters.
 
 ## Getting Started
@@ -48,7 +48,7 @@ Ensure the following are installed on your system:
    * Location: Either manually input latitude and longitude or click the Get Location button to allow the browser to retrieve your current location.
      * Click "Calculate Delivery Price".
      * View the Price Breakdown, which includes:
-           - Cart Value
+     * - Cart Value
            - Small Order Surcharge
            - Delivery Distance
            - Total Price
