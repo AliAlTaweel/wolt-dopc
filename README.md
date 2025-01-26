@@ -37,12 +37,13 @@ Ensure the following are installed on your system:
    npm (comes with Node.js)
 
 - Installation
-    npm install  
-    npm run dev  
-Usage
-Open the application in your browser (default: http://localhost:5173/).
-Enter the following:
-Venue Slug: The identifier for the venue.
+    - npm install  
+    - npm run dev  
+
+## Usage
+  - Open the application in your browser (default: http://localhost:5173/).
+  - Enter the following:
+     * Venue Slug: The identifier for the venue.
 Cart Value: Must be a number greater than 0.
 Location: Either manually input latitude and longitude or click the Get Location button to allow the browser to retrieve your current location.
 Click Calculate Delivery Price.
